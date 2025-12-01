@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.google.com/schemas/sitemap-image/1.1">
+
+  <url>
+    <loc>https://tukangac.fadelweb.site/</loc>
+    <image:image>
+      <image:loc>https://tukangac.fadelweb.site/images/ac-service.jpg</image:loc>
+      <image:title>Jasa Service AC Profesional</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://tukangac.fadelweb.site/images/ac-cuci.jpg</image:loc>
+      <image:title>Jasa Cuci AC Terpercaya</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://tukangac.fadelweb.site/images/ac-bongkar.jpg</image:loc>
+      <image:title>Jasa Bongkar Pasang AC</image:title>
+    </image:image>
+  </url>
+
+</urlset>

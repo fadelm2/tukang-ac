@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://tukangac.fadelweb.site/sitemap.xml
+Sitemap: https://tukangac.fadelweb.site/image-sitemap.xml
